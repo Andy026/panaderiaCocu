@@ -1,0 +1,10 @@
+@media all and (max-width: 576px){
+    .slider-Responsive{
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .centradoResponsive{
+        text-align: center;
+    }
+}
